@@ -1,1 +1,1 @@
-# algo-practice
+# python-practice
